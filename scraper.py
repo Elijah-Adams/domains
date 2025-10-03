@@ -344,8 +344,8 @@ def scrape_all_for_tld(tld: str, timeout: int, retries: int, backoff: float, use
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--input", default="two_letter_tlds.txt", help="Path to TLD list file")
-    ap.add_argument("--output", default="output.csv", help="CSV output path")
+    ap.add_argument("--input", default="data/two_letter_tlds.txt", help="Path to TLD list file")
+    ap.add_argument("--output", default="data/output.csv", help="CSV output path")
     ap.add_argument("--max-workers", type=int, default=16, help="Max concurrent threads")
     ap.add_argument("--timeout", type=int, default=20, help="HTTP timeout (seconds)")
     ap.add_argument("--retries", type=int, default=2, help="Retry count on errors")
