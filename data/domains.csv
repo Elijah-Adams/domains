@@ -219,7 +219,7 @@ domain,zone,status,summary
 0.tg,tg,undelegated inactive,inactive
 0.th,th,disallowed,disallowed
 0.tj,tj,active,active
-0.tk,tk,unknown,unknown
+0.tk,tk,undelegated,undelegated
 0.tl,tl,marketed active parked,parked
 0.tm,tm,undelegated inactive,inactive
 0.tn,tn,undelegated,undelegated
@@ -243,7 +243,7 @@ domain,zone,status,summary
 0.vg,vg,premium active,active
 0.vi,vi,disallowed,disallowed
 0.vn,vn,undelegated active,active
-0.vu,vu,unknown,unknown
+0.vu,vu,active,active
 0.wf,wf,reserved,reserved
 0.ws,ws,inactive premium,premium
 0.ye,ye,disallowed,disallowed
@@ -369,7 +369,7 @@ domain,zone,status,summary
 1.kg,kg,active,active
 1.kh,kh,undelegated,undelegated
 1.ki,ki,active,active
-1.km,km,unknown,unknown
+1.km,km,undelegated,undelegated
 1.kn,kn,marketed active,active
 1.kp,kp,undelegated,undelegated
 1.kr,kr,undelegated reserved,reserved
@@ -709,7 +709,7 @@ domain,zone,status,summary
 2.sm,sm,undelegated,undelegated
 2.sn,sn,disallowed,disallowed
 2.so,so,undelegated disallowed,disallowed
-2.sr,sr,unknown,unknown
+2.sr,sr,undelegated,undelegated
 2.ss,ss,undelegated,undelegated
 2.st,st,undelegated inactive,inactive
 2.su,su,undelegated reserved,reserved
@@ -873,7 +873,7 @@ domain,zone,status,summary
 3.kg,kg,active,active
 3.kh,kh,undelegated,undelegated
 3.ki,ki,active,active
-3.km,km,unknown,unknown
+3.km,km,undelegated,undelegated
 3.kn,kn,undelegated,undelegated
 3.kp,kp,undelegated,undelegated
 3.kr,kr,undelegated reserved,reserved
@@ -961,7 +961,7 @@ domain,zone,status,summary
 3.sm,sm,undelegated,undelegated
 3.sn,sn,disallowed,disallowed
 3.so,so,undelegated active,active
-3.sr,sr,unknown,unknown
+3.sr,sr,undelegated,undelegated
 3.ss,ss,undelegated,undelegated
 3.st,st,active,active
 3.su,su,undelegated reserved,reserved
@@ -1127,7 +1127,7 @@ domain,zone,status,summary
 4.ki,ki,undelegated inactive,inactive
 4.km,km,undelegated,undelegated
 4.kn,kn,undelegated,undelegated
-4.kp,kp,unknown,unknown
+4.kp,kp,undelegated,undelegated
 4.kr,kr,undelegated reserved,reserved
 4.kw,kw,undelegated,undelegated
 4.ky,ky,undelegated reserved,reserved
@@ -1277,7 +1277,7 @@ domain,zone,status,summary
 5.aw,aw,undelegated,undelegated
 5.ax,ax,undelegated disallowed,disallowed
 5.az,az,reserved,reserved
-5.ba,ba,unknown,unknown
+5.ba,ba,undelegated,undelegated
 5.bb,bb,undelegated,undelegated
 5.bd,bd,disallowed,disallowed
 5.be,be,reserved,reserved
@@ -1379,7 +1379,7 @@ domain,zone,status,summary
 5.ki,ki,undelegated inactive,inactive
 5.km,km,undelegated,undelegated
 5.kn,kn,undelegated,undelegated
-5.kp,kp,unknown,unknown
+5.kp,kp,undelegated,undelegated
 5.kr,kr,undelegated reserved,reserved
 5.kw,kw,undelegated,undelegated
 5.ky,ky,undelegated reserved,reserved
@@ -1479,7 +1479,7 @@ domain,zone,status,summary
 5.tg,tg,undelegated inactive,inactive
 5.th,th,disallowed,disallowed
 5.tj,tj,active,active
-5.tk,tk,unknown,unknown
+5.tk,tk,undelegated,undelegated
 5.tl,tl,active,active
 5.tm,tm,active,active
 5.tn,tn,undelegated,undelegated
@@ -1755,7 +1755,7 @@ domain,zone,status,summary
 6.vg,vg,premium active,active
 6.vi,vi,disallowed,disallowed
 6.vn,vn,undelegated active,active
-6.vu,,error,"retry_failed: HTTPSConnectionPool(host='domainr.p.rapidapi.com', port=443): Read timed out. (read timeout=10)"
+6.vu,vu,unknown,unknown
 6.wf,wf,reserved,reserved
 6.ws,ws,inactive premium,premium
 6.ye,ye,disallowed,disallowed
@@ -1969,7 +1969,7 @@ domain,zone,status,summary
 7.sm,sm,undelegated,undelegated
 7.sn,sn,disallowed,disallowed
 7.so,so,undelegated disallowed,disallowed
-7.sr,sr,unknown,unknown
+7.sr,sr,undelegated,undelegated
 7.ss,ss,undelegated,undelegated
 7.st,st,active,active
 7.su,su,undelegated reserved,reserved
@@ -2110,7 +2110,7 @@ domain,zone,status,summary
 8.gw,gw,undelegated,undelegated
 8.gy,gy,undelegated inactive,inactive
 8.hk,hk,reserved,reserved
-8.hm,hm,unknown,unknown
+8.hm,hm,active,active
 8.hn,hn,marketed priced active,active
 8.hr,hr,undelegated,undelegated
 8.ht,ht,active,active
@@ -2133,7 +2133,7 @@ domain,zone,status,summary
 8.kg,kg,active,active
 8.kh,kh,undelegated,undelegated
 8.ki,ki,active,active
-8.km,km,unknown,unknown
+8.km,km,undelegated,undelegated
 8.kn,kn,active,active
 8.kp,kp,undelegated,undelegated
 8.kr,kr,undelegated reserved,reserved
@@ -2610,7 +2610,7 @@ a.gq,gq,undelegated inactive,inactive
 a.gr,gr,undelegated active,active
 a.gs,gs,undelegated active,active
 a.gt,gt,active,active
-a.gu,gu,unknown,unknown
+a.gu,gu,undelegated,undelegated
 a.gw,gw,undelegated,undelegated
 a.gy,gy,undelegated active,active
 a.hk,hk,reserved,reserved
@@ -5057,7 +5057,7 @@ k.au,au,undelegated reserved,reserved
 k.aw,aw,undelegated,undelegated
 k.ax,ax,undelegated disallowed,disallowed
 k.az,az,reserved,reserved
-k.ba,ba,unknown,unknown
+k.ba,ba,undelegated,undelegated
 k.bb,bb,undelegated,undelegated
 k.bd,bd,disallowed,disallowed
 k.be,be,reserved,reserved
@@ -6138,7 +6138,7 @@ o.gq,gq,undelegated inactive,inactive
 o.gr,gr,undelegated active,active
 o.gs,gs,marketed priced active,active
 o.gt,gt,undelegated,undelegated
-o.gu,gu,unknown,unknown
+o.gu,gu,undelegated,undelegated
 o.gw,gw,undelegated,undelegated
 o.gy,gy,marketed priced active,active
 o.hk,hk,reserved,reserved
@@ -6519,7 +6519,7 @@ p.tf,tf,reserved,reserved
 p.tg,tg,undelegated inactive,inactive
 p.th,th,disallowed,disallowed
 p.tj,tj,active,active
-p.tk,tk,unknown,unknown
+p.tk,tk,undelegated,undelegated
 p.tl,tl,active,active
 p.tm,tm,active,active
 p.tn,tn,undelegated,undelegated
@@ -8435,7 +8435,7 @@ x.kh,kh,undelegated,undelegated
 x.ki,ki,active,active
 x.km,km,undelegated,undelegated
 x.kn,kn,undelegated,undelegated
-x.kp,kp,unknown,unknown
+x.kp,kp,undelegated,undelegated
 x.kr,kr,undelegated reserved,reserved
 x.kw,kw,undelegated,undelegated
 x.ky,ky,undelegated reserved,reserved
@@ -8585,7 +8585,7 @@ y.au,au,undelegated reserved,reserved
 y.aw,aw,undelegated,undelegated
 y.ax,ax,undelegated disallowed,disallowed
 y.az,az,reserved,reserved
-y.ba,ba,unknown,unknown
+y.ba,ba,undelegated,undelegated
 y.bb,bb,undelegated,undelegated
 y.bd,bd,disallowed,disallowed
 y.be,be,reserved,reserved
@@ -9039,7 +9039,7 @@ z.tf,tf,reserved,reserved
 z.tg,tg,undelegated inactive,inactive
 z.th,th,disallowed,disallowed
 z.tj,tj,active,active
-z.tk,tk,unknown,unknown
+z.tk,tk,undelegated,undelegated
 z.tl,tl,active,active
 z.tm,tm,active,active
 z.tn,tn,undelegated,undelegated
