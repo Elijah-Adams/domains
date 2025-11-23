@@ -1,0 +1,677 @@
+domain,zone,status,summary
+aa.fo,fo,active,active
+ab.fo,fo,active,active
+ac.fo,fo,active,active
+ad.fo,fo,active,active
+ae.fo,fo,active,active
+af.fo,fo,active,active
+ag.fo,fo,active,active
+ah.fo,fo,undelegated inactive,inactive
+ai.fo,fo,marketed active parked,parked
+aj.fo,fo,active,active
+ak.fo,fo,undelegated inactive,inactive
+al.fo,fo,active,active
+am.fo,fo,active,active
+an.fo,fo,undelegated inactive,inactive
+ao.fo,fo,undelegated inactive,inactive
+ap.fo,fo,undelegated inactive,inactive
+aq.fo,fo,undelegated inactive,inactive
+ar.fo,fo,active,active
+as.fo,fo,active,active
+at.fo,fo,active,active
+au.fo,fo,active,active
+av.fo,fo,active,active
+aw.fo,fo,undelegated inactive,inactive
+ax.fo,fo,active,active
+ay.fo,fo,undelegated inactive,inactive
+az.fo,fo,undelegated inactive,inactive
+ba.fo,fo,active,active
+bb.fo,fo,active,active
+bc.fo,fo,active,active
+bd.fo,fo,undelegated inactive,inactive
+be.fo,fo,marketed active parked,parked
+bf.fo,fo,undelegated active,active
+bg.fo,fo,active,active
+bh.fo,fo,undelegated inactive,inactive
+bi.fo,fo,active,active
+bj.fo,fo,undelegated inactive,inactive
+bk.fo,fo,active,active
+bl.fo,fo,active,active
+bm.fo,fo,active,active
+bn.fo,fo,undelegated inactive,inactive
+bo.fo,fo,active,active
+bp.fo,fo,active,active
+bq.fo,fo,undelegated inactive,inactive
+br.fo,fo,active,active
+bs.fo,fo,active,active
+bt.fo,fo,active,active
+bu.fo,fo,active,active
+bv.fo,fo,active,active
+bw.fo,fo,undelegated inactive,inactive
+bx.fo,fo,active,active
+by.fo,fo,undelegated inactive,inactive
+bz.fo,fo,undelegated inactive,inactive
+ca.fo,fo,marketed active parked,parked
+cb.fo,fo,active,active
+cc.fo,fo,marketed active,active
+cd.fo,fo,active,active
+ce.fo,fo,undelegated inactive,inactive
+cf.fo,fo,undelegated inactive,inactive
+cg.fo,fo,undelegated inactive,inactive
+ch.fo,fo,active,active
+ci.fo,fo,active,active
+cj.fo,fo,active,active
+ck.fo,fo,undelegated inactive,inactive
+cl.fo,fo,undelegated inactive,inactive
+cm.fo,fo,undelegated inactive,inactive
+cn.fo,fo,active,active
+co.fo,co.fo,active zone,zone
+cp.fo,fo,active,active
+cq.fo,fo,active,active
+cr.fo,fo,undelegated inactive,inactive
+cs.fo,fo,active,active
+ct.fo,fo,active,active
+cu.fo,fo,active,active
+cv.fo,fo,active,active
+cw.fo,fo,undelegated inactive,inactive
+cx.fo,fo,undelegated inactive,inactive
+cy.fo,fo,active,active
+cz.fo,fo,undelegated inactive,inactive
+da.fo,fo,active,active
+db.fo,fo,active,active
+dc.fo,fo,active,active
+dd.fo,fo,active,active
+de.fo,fo,undelegated active,active
+df.fo,fo,undelegated inactive,inactive
+dg.fo,fo,undelegated inactive,inactive
+dh.fo,fo,active,active
+di.fo,fo,active,active
+dj.fo,fo,undelegated inactive,inactive
+dk.fo,fo,active,active
+dl.fo,fo,active,active
+dm.fo,fo,undelegated inactive,inactive
+dn.fo,fo,undelegated inactive,inactive
+do.fo,fo,active,active
+dp.fo,fo,active,active
+dq.fo,fo,active,active
+dr.fo,fo,active,active
+ds.fo,fo,active,active
+dt.fo,fo,active,active
+du.fo,fo,undelegated inactive,inactive
+dv.fo,fo,undelegated inactive,inactive
+dw.fo,fo,undelegated inactive,inactive
+dx.fo,fo,active,active
+dy.fo,fo,undelegated inactive,inactive
+dz.fo,fo,undelegated inactive,inactive
+ea.fo,fo,undelegated inactive,inactive
+eb.fo,fo,active,active
+ec.fo,fo,undelegated inactive,inactive
+ed.fo,fo,undelegated inactive,inactive
+ee.fo,fo,active,active
+ef.fo,fo,active,active
+eg.fo,fo,active,active
+eh.fo,fo,undelegated inactive,inactive
+ei.fo,fo,active,active
+ej.fo,fo,active,active
+ek.fo,fo,undelegated inactive,inactive
+el.fo,fo,active,active
+em.fo,fo,undelegated inactive,inactive
+en.fo,fo,active,active
+eo.fo,fo,undelegated inactive,inactive
+ep.fo,fo,undelegated inactive,inactive
+eq.fo,fo,undelegated inactive,inactive
+er.fo,fo,active,active
+es.fo,fo,active,active
+et.fo,fo,active,active
+eu.fo,fo,active,active
+ev.fo,fo,active,active
+ew.fo,fo,undelegated inactive,inactive
+ex.fo,fo,active,active
+ey.fo,fo,active,active
+ez.fo,fo,undelegated inactive,inactive
+fa.fo,fo,active,active
+fb.fo,fo,active,active
+fc.fo,fo,active,active
+fd.fo,fo,active,active
+fe.fo,fo,active,active
+ff.fo,fo,active,active
+fg.fo,fo,active,active
+fh.fo,fo,undelegated inactive,inactive
+fi.fo,fo,active,active
+fj.fo,fo,undelegated inactive,inactive
+fk.fo,fo,active,active
+fl.fo,fo,active,active
+fm.fo,fo,active,active
+fn.fo,fo,active,active
+fo.fo,fo,active,active
+fp.fo,fo,active,active
+fq.fo,fo,undelegated inactive,inactive
+fr.fo,fo,active,active
+fs.fo,fo,undelegated reserved,reserved
+ft.fo,fo,active,active
+fu.fo,fo,active,active
+fv.fo,fo,active,active
+fw.fo,fo,undelegated inactive,inactive
+fx.fo,fo,active,active
+fy.fo,fo,active,active
+fz.fo,fo,undelegated inactive,inactive
+ga.fo,fo,active,active
+gb.fo,fo,active,active
+gc.fo,fo,active,active
+gd.fo,fo,undelegated inactive,inactive
+ge.fo,fo,active,active
+gf.fo,fo,undelegated inactive,inactive
+gg.fo,fo,active,active
+gh.fo,fo,active,active
+gi.fo,fo,undelegated inactive,inactive
+gj.fo,fo,active,active
+gk.fo,fo,undelegated inactive,inactive
+gl.fo,fo,undelegated inactive,inactive
+gm.fo,fo,active,active
+gn.fo,fo,undelegated inactive,inactive
+go.fo,fo,active,active
+gp.fo,fo,active,active
+gq.fo,fo,undelegated inactive,inactive
+gr.fo,fo,undelegated active,active
+gs.fo,fo,active,active
+gt.fo,fo,active,active
+gu.fo,fo,undelegated inactive,inactive
+gv.fo,fo,active,active
+gw.fo,fo,undelegated inactive,inactive
+gx.fo,fo,undelegated inactive,inactive
+gy.fo,fo,undelegated inactive,inactive
+gz.fo,fo,undelegated inactive,inactive
+ha.fo,fo,active,active
+hb.fo,fo,active,active
+hc.fo,fo,undelegated inactive,inactive
+hd.fo,fo,active,active
+he.fo,fo,active,active
+hf.fo,fo,active,active
+hg.fo,fo,undelegated inactive,inactive
+hh.fo,fo,active,active
+hi.fo,fo,active,active
+hj.fo,fo,active,active
+hk.fo,fo,active,active
+hl.fo,fo,active,active
+hm.fo,fo,marketed priced undelegated inactive,inactive
+hn.fo,fo,undelegated inactive,inactive
+ho.fo,fo,marketed active parked,parked
+hp.fo,fo,active,active
+hq.fo,fo,undelegated inactive,inactive
+hr.fo,fo,active,active
+hs.fo,fo,active,active
+ht.fo,fo,active,active
+hu.fo,fo,active,active
+hv.fo,fo,undelegated inactive,inactive
+hw.fo,fo,active,active
+hx.fo,fo,undelegated inactive,inactive
+hy.fo,fo,active,active
+hz.fo,fo,undelegated inactive,inactive
+ia.fo,fo,active,active
+ib.fo,fo,undelegated inactive,inactive
+ic.fo,fo,active,active
+id.fo,fo,active,active
+ie.fo,fo,undelegated inactive,inactive
+if.fo,fo,active,active
+ig.fo,fo,active,active
+ih.fo,fo,undelegated inactive,inactive
+ii.fo,fo,active,active
+ij.fo,fo,undelegated inactive,inactive
+ik.fo,fo,undelegated inactive,inactive
+il.fo,fo,undelegated inactive,inactive
+im.fo,fo,active,active
+in.fo,fo,active,active
+io.fo,fo,active,active
+ip.fo,fo,active,active
+iq.fo,fo,active,active
+ir.fo,fo,active,active
+is.fo,fo,active,active
+it.fo,fo,active,active
+iu.fo,fo,undelegated inactive,inactive
+iv.fo,fo,undelegated inactive,inactive
+iw.fo,fo,undelegated inactive,inactive
+ix.fo,fo,active,active
+iy.fo,fo,undelegated inactive,inactive
+iz.fo,fo,undelegated inactive,inactive
+ja.fo,fo,active,active
+jb.fo,fo,undelegated inactive,inactive
+jc.fo,fo,active,active
+jd.fo,fo,active,active
+je.fo,fo,active,active
+jf.fo,fo,active,active
+jg.fo,fo,undelegated inactive,inactive
+jh.fo,fo,active,active
+ji.fo,fo,undelegated inactive,inactive
+jj.fo,fo,active,active
+jk.fo,fo,active,active
+jl.fo,fo,undelegated inactive,inactive
+jm.fo,fo,undelegated inactive,inactive
+jn.fo,fo,active,active
+jo.fo,fo,active,active
+jp.fo,fo,active,active
+jq.fo,fo,undelegated inactive,inactive
+jr.fo,fo,active,active
+js.fo,fo,active,active
+jt.fo,fo,active,active
+ju.fo,fo,undelegated inactive,inactive
+jv.fo,fo,undelegated inactive,inactive
+jw.fo,fo,undelegated inactive,inactive
+jx.fo,fo,undelegated inactive,inactive
+jy.fo,fo,undelegated inactive,inactive
+jz.fo,fo,undelegated inactive,inactive
+ka.fo,fo,active,active
+kb.fo,fo,active,active
+kc.fo,fo,active,active
+kd.fo,fo,undelegated inactive,inactive
+ke.fo,fo,active,active
+kf.fo,fo,active,active
+kg.fo,fo,active,active
+kh.fo,fo,undelegated inactive,inactive
+ki.fo,fo,active,active
+kj.fo,fo,active,active
+kk.fo,fo,active,active
+kl.fo,fo,active,active
+km.fo,fo,undelegated inactive,inactive
+kn.fo,fo,undelegated inactive,inactive
+ko.fo,fo,active,active
+kp.fo,fo,undelegated inactive,inactive
+kq.fo,fo,undelegated inactive,inactive
+kr.fo,fo,undelegated inactive,inactive
+ks.fo,fo,active,active
+kt.fo,fo,active,active
+ku.fo,fo,undelegated inactive,inactive
+kv.fo,fo,active,active
+kw.fo,fo,undelegated inactive,inactive
+kx.fo,fo,undelegated inactive,inactive
+ky.fo,fo,undelegated inactive,inactive
+kz.fo,fo,undelegated inactive,inactive
+la.fo,fo,active,active
+lb.fo,fo,active,active
+lc.fo,fo,undelegated inactive,inactive
+ld.fo,fo,undelegated inactive,inactive
+le.fo,fo,active,active
+lf.fo,fo,active,active
+lg.fo,fo,active,active
+lh.fo,fo,active,active
+li.fo,fo,marketed priced active,active
+lj.fo,fo,undelegated inactive,inactive
+lk.fo,fo,active,active
+ll.fo,fo,active,active
+lm.fo,fo,active,active
+ln.fo,fo,undelegated active,active
+lo.fo,fo,active,active
+lp.fo,fo,active,active
+lq.fo,fo,undelegated inactive,inactive
+lr.fo,fo,undelegated inactive,inactive
+ls.fo,fo,active,active
+lt.fo,fo,active,active
+lu.fo,fo,active,active
+lv.fo,fo,active,active
+lw.fo,fo,undelegated inactive,inactive
+lx.fo,fo,active,active
+ly.fo,fo,active,active
+lz.fo,fo,undelegated inactive,inactive
+ma.fo,fo,undelegated inactive,inactive
+mb.fo,fo,active,active
+mc.fo,fo,active,active
+md.fo,fo,active,active
+me.fo,fo,active,active
+mf.fo,fo,active,active
+mg.fo,fo,undelegated inactive,inactive
+mh.fo,fo,active,active
+mi.fo,fo,undelegated active,active
+mj.fo,fo,active,active
+mk.fo,fo,active,active
+ml.fo,fo,undelegated active,active
+mm.fo,fo,marketed undelegated active,active
+mn.fo,fo,undelegated inactive,inactive
+mo.fo,fo,active,active
+mp.fo,fo,active,active
+mq.fo,fo,undelegated inactive,inactive
+mr.fo,fo,active,active
+ms.fo,fo,active,active
+mt.fo,fo,active,active
+mu.fo,fo,active,active
+mv.fo,fo,undelegated inactive,inactive
+mw.fo,fo,undelegated inactive,inactive
+mx.fo,fo,active,active
+my.fo,fo,active,active
+mz.fo,fo,active,active
+na.fo,fo,active,active
+nb.fo,fo,active,active
+nc.fo,fo,active,active
+nd.fo,fo,undelegated inactive,inactive
+ne.fo,fo,active,active
+nf.fo,fo,active,active
+ng.fo,fo,active,active
+nh.fo,fo,active,active
+ni.fo,fo,undelegated inactive,inactive
+nj.fo,fo,undelegated inactive,inactive
+nk.fo,fo,active,active
+nl.fo,fo,undelegated inactive,inactive
+nm.fo,fo,undelegated inactive,inactive
+nn.fo,fo,active,active
+no.fo,fo,marketed priced active,active
+np.fo,fo,active,active
+nq.fo,fo,undelegated inactive,inactive
+nr.fo,fo,active,active
+ns.fo,fo,active,active
+nt.fo,fo,active,active
+nu.fo,fo,undelegated active,active
+nv.fo,fo,undelegated inactive,inactive
+nw.fo,fo,undelegated inactive,inactive
+nx.fo,fo,active,active
+ny.fo,fo,active,active
+nz.fo,fo,undelegated inactive,inactive
+oa.fo,fo,active,active
+ob.fo,fo,active,active
+oc.fo,fo,active,active
+od.fo,fo,undelegated inactive,inactive
+oe.fo,fo,undelegated inactive,inactive
+of.fo,fo,active,active
+og.fo,fo,active,active
+oh.fo,fo,active,active
+oi.fo,fo,undelegated inactive,inactive
+oj.fo,fo,undelegated inactive,inactive
+ok.fo,fo,active,active
+ol.fo,fo,active,active
+om.fo,fo,active,active
+on.fo,fo,active,active
+oo.fo,fo,active,active
+op.fo,fo,active,active
+oq.fo,fo,undelegated inactive,inactive
+or.fo,fo,active,active
+os.fo,fo,active,active
+ot.fo,fo,active,active
+ou.fo,fo,undelegated inactive,inactive
+ov.fo,fo,active,active
+ow.fo,fo,undelegated inactive,inactive
+ox.fo,fo,active,active
+oy.fo,fo,active,active
+oz.fo,fo,undelegated inactive,inactive
+pa.fo,fo,marketed active,active
+pb.fo,fo,undelegated inactive,inactive
+pc.fo,fo,active,active
+pd.fo,fo,active,active
+pe.fo,fo,active,active
+pf.fo,fo,active,active
+pg.fo,fo,active,active
+ph.fo,fo,active,active
+pi.fo,fo,active,active
+pj.fo,fo,undelegated inactive,inactive
+pk.fo,fo,undelegated inactive,inactive
+pl.fo,fo,active,active
+pm.fo,fo,active,active
+pn.fo,fo,active,active
+po.fo,fo,active,active
+pp.fo,fo,marketed undelegated active,active
+pq.fo,fo,undelegated inactive,inactive
+pr.fo,fo,active,active
+ps.fo,fo,active,active
+pt.fo,fo,undelegated inactive,inactive
+pu.fo,fo,undelegated inactive,inactive
+pv.fo,fo,active,active
+pw.fo,fo,undelegated inactive,inactive
+px.fo,fo,undelegated inactive,inactive
+py.fo,fo,undelegated inactive,inactive
+pz.fo,fo,undelegated inactive,inactive
+qa.fo,fo,active,active
+qb.fo,fo,undelegated inactive,inactive
+qc.fo,fo,undelegated inactive,inactive
+qd.fo,fo,undelegated inactive,inactive
+qe.fo,fo,undelegated inactive,inactive
+qf.fo,fo,undelegated inactive,inactive
+qg.fo,fo,undelegated inactive,inactive
+qh.fo,fo,undelegated inactive,inactive
+qi.fo,fo,active,active
+qj.fo,fo,undelegated inactive,inactive
+qk.fo,fo,undelegated inactive,inactive
+ql.fo,fo,undelegated inactive,inactive
+qm.fo,fo,undelegated inactive,inactive
+qn.fo,fo,undelegated inactive,inactive
+qo.fo,fo,undelegated inactive,inactive
+qp.fo,fo,active,active
+qq.fo,fo,active,active
+qr.fo,fo,marketed active,active
+qs.fo,fo,undelegated inactive,inactive
+qt.fo,fo,undelegated inactive,inactive
+qu.fo,fo,active,active
+qv.fo,fo,undelegated inactive,inactive
+qw.fo,fo,active,active
+qx.fo,fo,undelegated inactive,inactive
+qy.fo,fo,undelegated inactive,inactive
+qz.fo,fo,undelegated inactive,inactive
+ra.fo,fo,undelegated active,active
+rb.fo,fo,active,active
+rc.fo,fo,undelegated inactive,inactive
+rd.fo,fo,active,active
+re.fo,fo,active,active
+rf.fo,fo,active,active
+rg.fo,fo,undelegated inactive,inactive
+rh.fo,fo,active,active
+ri.fo,fo,undelegated inactive,inactive
+rj.fo,fo,undelegated inactive,inactive
+rk.fo,fo,active,active
+rl.fo,fo,undelegated inactive,inactive
+rm.fo,fo,undelegated inactive,inactive
+rn.fo,fo,undelegated inactive,inactive
+ro.fo,fo,active,active
+rp.fo,fo,active,active
+rq.fo,fo,active,active
+rr.fo,fo,marketed active parked,parked
+rs.fo,fo,active,active
+rt.fo,fo,active,active
+ru.fo,fo,active,active
+rv.fo,fo,active,active
+rw.fo,fo,active,active
+rx.fo,fo,active,active
+ry.fo,fo,undelegated inactive,inactive
+rz.fo,fo,undelegated inactive,inactive
+sa.fo,fo,active,active
+sb.fo,fo,active,active
+sc.fo,fo,marketed priced active,active
+sd.fo,fo,active,active
+se.fo,fo,active,active
+sf.fo,fo,active,active
+sg.fo,fo,marketed priced active,active
+sh.fo,fo,undelegated active,active
+si.fo,fo,active,active
+sj.fo,fo,undelegated inactive,inactive
+sk.fo,fo,active,active
+sl.fo,fo,active,active
+sm.fo,fo,active,active
+sn.fo,fo,active,active
+so.fo,fo,marketed priced active,active
+sp.fo,fo,active,active
+sq.fo,fo,active,active
+sr.fo,fo,active,active
+ss.fo,fo,active,active
+st.fo,fo,active,active
+su.fo,fo,active,active
+sv.fo,fo,active,active
+sw.fo,fo,active,active
+sx.fo,fo,undelegated inactive,inactive
+sy.fo,fo,undelegated inactive,inactive
+sz.fo,fo,undelegated inactive,inactive
+ta.fo,fo,active,active
+tb.fo,fo,active,active
+tc.fo,fo,active,active
+td.fo,fo,undelegated inactive,inactive
+te.fo,fo,undelegated inactive,inactive
+tf.fo,fo,active,active
+tg.fo,fo,active,active
+th.fo,fo,undelegated inactive,inactive
+ti.fo,fo,undelegated inactive,inactive
+tj.fo,fo,active,active
+tk.fo,fo,active,active
+tl.fo,fo,active,active
+tm.fo,fo,active,active
+tn.fo,fo,marketed active,active
+to.fo,fo,marketed active,active
+tp.fo,fo,active,active
+tq.fo,fo,undelegated inactive,inactive
+tr.fo,fo,undelegated inactive,inactive
+ts.fo,fo,active,active
+tt.fo,fo,active,active
+tu.fo,fo,marketed active parked,parked
+tv.fo,fo,active,active
+tw.fo,fo,undelegated inactive,inactive
+tx.fo,fo,active,active
+ty.fo,fo,active,active
+tz.fo,fo,active,active
+ua.fo,fo,active,active
+ub.fo,fo,undelegated inactive,inactive
+uc.fo,fo,undelegated inactive,inactive
+ud.fo,fo,undelegated inactive,inactive
+ue.fo,fo,undelegated inactive,inactive
+uf.fo,fo,active,active
+ug.fo,fo,undelegated inactive,inactive
+uh.fo,fo,undelegated inactive,inactive
+ui.fo,fo,active,active
+uj.fo,fo,undelegated inactive,inactive
+uk.fo,fo,marketed active,active
+ul.fo,fo,active,active
+um.fo,fo,active,active
+un.fo,fo,active,active
+uo.fo,fo,undelegated inactive,inactive
+up.fo,fo,active,active
+uq.fo,fo,undelegated inactive,inactive
+ur.fo,fo,active,active
+us.fo,fo,active,active
+ut.fo,fo,active,active
+uu.fo,fo,active,active
+uv.fo,fo,undelegated inactive,inactive
+uw.fo,fo,undelegated inactive,inactive
+ux.fo,fo,active,active
+uy.fo,fo,undelegated inactive,inactive
+uz.fo,fo,undelegated inactive,inactive
+va.fo,fo,active,active
+vb.fo,fo,active,active
+vc.fo,fo,marketed active,active
+vd.fo,fo,undelegated inactive,inactive
+ve.fo,fo,undelegated inactive,inactive
+vf.fo,fo,active,active
+vg.fo,fo,undelegated inactive,inactive
+vh.fo,fo,active,active
+vi.fo,fo,active,active
+vj.fo,fo,undelegated inactive,inactive
+vk.fo,fo,active,active
+vl.fo,fo,active,active
+vm.fo,fo,undelegated inactive,inactive
+vn.fo,fo,active,active
+vo.fo,fo,active,active
+vp.fo,fo,active,active
+vq.fo,fo,undelegated inactive,inactive
+vr.fo,fo,active,active
+vs.fo,fo,active,active
+vt.fo,fo,active,active
+vu.fo,fo,undelegated inactive,inactive
+vv.fo,fo,active,active
+vw.fo,fo,active,active
+vx.fo,fo,undelegated inactive,inactive
+vy.fo,fo,undelegated inactive,inactive
+vz.fo,fo,undelegated inactive,inactive
+wa.fo,fo,active,active
+wb.fo,fo,active,active
+wc.fo,fo,undelegated inactive,inactive
+wd.fo,fo,undelegated inactive,inactive
+we.fo,fo,marketed priced active,active
+wf.fo,fo,undelegated inactive,inactive
+wg.fo,fo,undelegated inactive,inactive
+wh.fo,fo,active,active
+wi.fo,fo,undelegated active,active
+wj.fo,fo,undelegated inactive,inactive
+wk.fo,fo,undelegated inactive,inactive
+wl.fo,fo,undelegated inactive,inactive
+wm.fo,fo,undelegated inactive,inactive
+wn.fo,fo,undelegated inactive,inactive
+wo.fo,fo,undelegated inactive,inactive
+wp.fo,fo,active,active
+wq.fo,fo,undelegated inactive,inactive
+wr.fo,fo,undelegated inactive,inactive
+ws.fo,fo,active,active
+wt.fo,fo,active,active
+wu.fo,fo,undelegated inactive,inactive
+wv.fo,fo,undelegated inactive,inactive
+ww.fo,fo,active,active
+wx.fo,fo,undelegated inactive,inactive
+wy.fo,fo,undelegated inactive,inactive
+wz.fo,fo,undelegated inactive,inactive
+xa.fo,fo,undelegated inactive,inactive
+xb.fo,fo,undelegated inactive,inactive
+xc.fo,fo,undelegated inactive,inactive
+xd.fo,fo,undelegated inactive,inactive
+xe.fo,fo,undelegated inactive,inactive
+xf.fo,fo,undelegated inactive,inactive
+xg.fo,fo,undelegated inactive,inactive
+xh.fo,fo,undelegated inactive,inactive
+xi.fo,fo,undelegated inactive,inactive
+xj.fo,fo,undelegated inactive,inactive
+xk.fo,fo,undelegated inactive,inactive
+xl.fo,fo,active,active
+xm.fo,fo,active,active
+xn.fo,fo,active,active
+xo.fo,fo,active,active
+xp.fo,fo,undelegated inactive,inactive
+xq.fo,fo,undelegated inactive,inactive
+xr.fo,fo,undelegated inactive,inactive
+xs.fo,fo,active,active
+xt.fo,fo,undelegated inactive,inactive
+xu.fo,fo,undelegated inactive,inactive
+xv.fo,fo,undelegated inactive,inactive
+xw.fo,fo,undelegated inactive,inactive
+xx.fo,fo,marketed active,active
+xy.fo,fo,active,active
+xz.fo,fo,undelegated inactive,inactive
+ya.fo,fo,undelegated inactive,inactive
+yb.fo,fo,undelegated inactive,inactive
+yc.fo,fo,active,active
+yd.fo,fo,active,active
+ye.fo,fo,undelegated inactive,inactive
+yf.fo,fo,active,active
+yg.fo,fo,undelegated inactive,inactive
+yh.fo,fo,undelegated inactive,inactive
+yi.fo,fo,undelegated inactive,inactive
+yj.fo,fo,undelegated inactive,inactive
+yk.fo,fo,undelegated inactive,inactive
+yl.fo,fo,undelegated inactive,inactive
+ym.fo,fo,undelegated inactive,inactive
+yn.fo,fo,undelegated inactive,inactive
+yo.fo,fo,active,active
+yp.fo,fo,undelegated inactive,inactive
+yq.fo,fo,undelegated inactive,inactive
+yr.fo,fo,active,active
+ys.fo,fo,undelegated inactive,inactive
+yt.fo,fo,undelegated inactive,inactive
+yu.fo,fo,undelegated inactive,inactive
+yv.fo,fo,undelegated inactive,inactive
+yw.fo,fo,active,active
+yx.fo,fo,undelegated inactive,inactive
+yy.fo,fo,active,active
+yz.fo,fo,active,active
+za.fo,fo,active,active
+zb.fo,fo,undelegated inactive,inactive
+zc.fo,fo,undelegated inactive,inactive
+zd.fo,fo,undelegated inactive,inactive
+ze.fo,fo,undelegated inactive,inactive
+zf.fo,fo,undelegated inactive,inactive
+zg.fo,fo,undelegated inactive,inactive
+zh.fo,fo,undelegated inactive,inactive
+zi.fo,fo,undelegated inactive,inactive
+zj.fo,fo,undelegated inactive,inactive
+zk.fo,fo,undelegated inactive,inactive
+zl.fo,fo,undelegated inactive,inactive
+zm.fo,fo,undelegated inactive,inactive
+zn.fo,fo,undelegated inactive,inactive
+zo.fo,fo,active,active
+zp.fo,fo,undelegated inactive,inactive
+zq.fo,fo,undelegated inactive,inactive
+zr.fo,fo,undelegated inactive,inactive
+zs.fo,fo,undelegated inactive,inactive
+zt.fo,fo,undelegated inactive,inactive
+zu.fo,fo,undelegated inactive,inactive
+zv.fo,fo,undelegated inactive,inactive
+zw.fo,fo,undelegated inactive,inactive
+zx.fo,fo,undelegated inactive,inactive
+zy.fo,fo,undelegated inactive,inactive
+zz.fo,fo,marketed priced active,active
